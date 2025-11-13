@@ -1,0 +1,6 @@
+davlab1.runs/
+davlab1.sim/
+davlab1.cache/
+davlab1.gen/
+*.log
+*.jou
